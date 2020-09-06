@@ -1,7 +1,7 @@
 # Visualization-Dashboard-COVID19
 <h3>This is a live dashboard for Total Confirmed Cases and Total Deaths due to COVID-19 worldwide</h3>
 
-Click on this link to acccess the dashboard - https://salonidas.github.io/Visualization-Dashboard-COVID/
+Click on this link to acccess the dashboard - https://salonidas.github.io/Visualization-Dashboard-COVID/index.html
 
 <hr>
 
