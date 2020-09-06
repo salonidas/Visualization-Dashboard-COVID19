@@ -3,6 +3,8 @@
 
 Click on this link to acccess the dashboard - https://salonidas.github.io/Visualization-Dashboard-COVID/
 
+<hr>
+
 <h3>About the Dataset</h3>
 
 The data for this project is sourced from <b>"COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"</b> and is updated daily.
